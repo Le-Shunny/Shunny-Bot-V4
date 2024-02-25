@@ -1,7 +1,7 @@
 const axios = require('axios');
 module.exports = {
   config: {
-    name: "ss",
+    name: "osu",
     aliases: ["screenshot"],
     version: "1.0",
     author: "MILAN",
@@ -14,12 +14,12 @@ module.exports = {
   },
 
   onStart: async function ({ message, args }) {
-    const url = args.join(" ");
-    if (!url) {
-      return message.reply(`⚠️ | Please enter an url!`);
+    const mode = args.join(" ");
+    if (!mode) {
+      return message.reply(`⚠️ | Please enter a mode!`);
     } else {
       try {
-        const BASE_URL = `https://milanbhandari.imageapi.repl.co/screenshot?url=${encodeURIComponent(url)}`;
+        const BASE_URL = `https://image.thum.io/get/width/1920/crop/400/fullpage/noanimate/https://osu-sig.vercel.app/card?user=${args[0]}&mode=${args[1]}&lang=en&w=2002&h=1165`;
         const form = {
           body: ``
         };

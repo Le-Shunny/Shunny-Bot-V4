@@ -1,5 +1,4 @@
-<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
+<h1 align="center">Shunny Bot - Bot Chat Messenger</h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <br><br>
@@ -51,12 +50,8 @@ Tutorial has been uploaded on YouTube
 - See [here](https://github.com/ntkhang03/Goat-Bot-V2/blob/main/DOCS.md)
 
 ## 💭 **Support**
-If you have major coding issues with this bot, please join and ask for help.
-- https://discord.com/invite/DbyGwmkpVY (recommended)
-- https://www.facebook.com/groups/goatbot
-- https://m.me/j/Abbq0B-nmkGJUl2C
-- ~~https://t.me/gatbottt~~ (no longer supported)
-- ***Please do not inbox me, I do not respond to private messages, any questions please join the chat group for answers. ThankThanks!***
+If you have major coding issues with this bot, please inbox and ask for help.
+- https://facebook.com/ShunnyTheFemboy
 
 ## 📚 **Support Languages in source code**
 - Currently, the bot supports 2 languages:
